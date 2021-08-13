@@ -1,0 +1,23 @@
+[
+  {
+    "opdb_id": "GRBE4-MQK1Z-A9Yn1",
+    "is_alias": true,
+    "name": "Metallica (Pro LED)",
+    "common_name": null,
+    "shortname": null,
+    "ipdb_id": 6178,
+    "manufacture_date": "2014-08-01",
+    "manufacturer": {
+      "manufacturer_id": 12,
+      "name": "Stern",
+      "full_name": "Stern Pinball, Inc.",
+      "created_at": "2018-03-11",
+      "updated_at": "2018-03-11"
+    },
+    "features": [],
+    "keywords": [],
+    "created_at": "2018-03-14",
+    "updated_at": "2018-03-14",
+    "images": []
+  }
+]
