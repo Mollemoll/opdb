@@ -1,3 +1,7 @@
+![License](https://img.shields.io/badge/Licence-MIT-informational)
+[![GitHub release](https://img.shields.io/github/release/Mollemoll/opdb.svg)](https://github.com/Mollemoll/opdb/releases)
+![Build](https://github.com/Mollemoll/opdb/actions/workflows/main.yml/badge.svg)
+
 # Opdb
 
 This gem is a simple API wrapper for the [Open Pinball Database API](https://opdb.org/api) for ruby.
